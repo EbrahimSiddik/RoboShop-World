@@ -106,7 +106,7 @@
             <div class="project-details">
 			<h2>Line Following Robot</h2>
             <p>Learn how to create a line following robot using basic electronics and programming skills.</p>  
-			 <a href="https://github.com/">READ MORE</a>
+			 <a href="https://circuitdigest.com/microcontroller-projects/arduino-uno-line-follower-robot">READ MORE</a>
             </div>
         </div>
 		
@@ -121,7 +121,7 @@
             <div class="project-details">
 			<h2>Solar Panel System</h2>
             <p>Build a solar panel system to harness the power of the sun and generate renewable energy.</p>
-            <a href="https://github.com/">READ MORE</a>
+            <a href="https://circuitdigest.com/microcontroller-projects/building-your-own-sun-tracking-solar-panel-using-arduino">READ MORE</a>
             </div>
         </div>
 		</br></br></br>
@@ -142,7 +142,7 @@
             <div class="project-details">
 			<h2>Smart Blind Stick</h2>
             <p>Create a smart blind stick that uses sensors to help visually impaired individuals navigate their environment safely.</p>   
-		    <a href="https://github.com/">READ MORE</a>
+		    <a href="https://projecthub.arduino.cc/hadi1234/arduino-blind-stick-b3157a">READ MORE</a>
             </div>
         </div>
 		</br></br>
@@ -157,7 +157,7 @@
             <div class="project-details">
 			<h2>Home Security System</h2>
             <p>Develop a home security system that can detect intruders and alert the homeowner through a mobile app.</p>     
-		    <a href="https://github.com/">READ MORE</a>
+		    <a href="https://www.instructables.com/ARDUINO-WIRELESS-HOME-SECURITY-SYSTEM/">READ MORE</a>
             </div>
         </div>
 		</br></br></br>
