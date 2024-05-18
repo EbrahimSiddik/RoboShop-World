@@ -92,7 +92,7 @@
 
 		<!-- Microcontroller Projects -->
 		<section class="project-section">
-        <h2 text-align="center">Microcontroller Projects</h2>
+        <h2 text-align="center"><b>Microcontroller Projects</b></h2>
 	    </br>
 
 
@@ -130,7 +130,7 @@
 
     <!-- Science Projects -->
     <section class="project-section">
-    <h2 text-align="center">Science Projects</h2>
+    <h2 text-align="center"><b>Science Projects</b></h2>
     </br>
 
         <!-- Project 1 -->
