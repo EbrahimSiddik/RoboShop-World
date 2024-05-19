@@ -98,6 +98,26 @@ class CheckoutComponent extends Component
             $transaction->save();
         }
 
+        if($this->paymentmode == 'card')
+        {
+            $transaction = new Transaction();
+            $transaction->user_id = Auth::user()->id;
+            $transaction->order_id = $order->id;
+            $transaction->mode = 'card';
+            $transaction->status = 'pending';
+            $transaction->save();
+        }
+
+        if($this->paymentmode == 'paypal')
+        {
+            $transaction = new Transaction();
+            $transaction->user_id = Auth::user()->id;
+            $transaction->order_id = $order->id;
+            $transaction->mode = 'paypal';
+            $transaction->status = 'pending';
+            $transaction->save();
+        }
+
         $this->thankyou = 1;
         Cart::instance('cart')->destroy();
         session()->forget('cehckout');
