@@ -102,7 +102,7 @@
 										<i class="fa fa-map-marker" aria-hidden="true"></i>
 										<div class="right-info">
 											<b>Mail Office</b>
-											<p>Amar Ekushe Hall<br />KUET, Khulna</p>
+											<p>Fazlul Haque Hall<br />KUET, Khulna</p>
 										</div>
 									</div>
 

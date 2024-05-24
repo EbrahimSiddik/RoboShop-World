@@ -329,7 +329,7 @@
 										<ul>
 											<li>
 												<i class="fa fa-map-marker" aria-hidden="true"></i>
-												<p class="contact-txt">Amar Ekushe Hall, KUET, Khulna</p>
+												<p class="contact-txt">Fazlul Haque Hall, KUET, Khulna</p>
 											</li>
 											<li style="margin-top: -10px;">
 												<i class="fa fa-phone" aria-hidden="true"></i>
@@ -396,15 +396,15 @@
 								<div class="item-content">
 									<div class="wrap-list-item apps-list">
 										<ul>
-											<li><a href="#" class="link-to-item" title="our application on apple store"><figure><img src="asset/play-store.png" alt="" width="128" height="36"></figure></a></li>
-											<li><a href="#" class="link-to-item" title="our application on google play store"><figure><img src="asset/app-store.png" alt="" width="128" height="36"></figure></a></li>
+											<li><a href="#" class="link-to-item" title="our application on apple store"><figure><img src="asset\app-store.png" alt="" width="128" height="36"></figure></a></li>
+											<li><a href="#" class="link-to-item" title="our application on google play store"><figure><img src="asset/play-store.png" alt="" width="128" height="36"></figure></a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 							<div class="wrap-footer-item">
 								<h3 class="item-header">Secured Payment Gateways</h3>
-								<img src="asset/payment-gateway.png" alt="" width="200" height="36">
+								<img src="asset\payment-gateway.png" alt="" width="200" height="36">
 							</div>
 						</div>
 					</div>
@@ -423,7 +423,7 @@
 				</style>
 				<div class="container">
 					<div class="copyright">
-						<p>© copyright 2023 - www.bigganpur.com</p>
+						<p>© copyright 2024 - www.bigganpur.com</p>
 				  	</div>
 					<div class="clearfix"></div>
 				</div>
