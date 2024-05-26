@@ -174,7 +174,7 @@
 							<p>FREE SHIP-ON ORDER OVER ৳3000</p>
 						</div>
 						<div class="fe-box">
-							<img src="asset/24:7.jpeg" alt="" >
+							<img src="asset\24_7.jpeg" alt="" >
 							<p>24/7 Support</p>
 						</div>
 						<div class="fe-box">
