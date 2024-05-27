@@ -94,7 +94,7 @@
     
 
 
-     Example Blog 1: Arduino
+     <!-- Example Blog 1: Arduino -->
     
      <div class="blog-box">
             <div class="blog-img">
